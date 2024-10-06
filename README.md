@@ -15,4 +15,4 @@ maintaining and evolving software.
 
 ## GitHub Profile
 You can view my personalized GitHub profile
-[here](https://github.com/your-github-username).
+[here](https://github.com/shazwydaniel).

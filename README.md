@@ -1,15 +1,14 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/O-1AGqKT)
 __________________________________________
 # Introduction
-Hi! I'm Ahmad Shazwy Daniel, a student in the Software Maintenance
+Hello! I am Ahmad Shazwy Daniel, a final year Software Engineering student enrolling in the Software Maintenance
 and Evolution course.
-I expect to learn a lot about modern software maintenance
-practices and how to work with legacy systems.
-
-- **Fun fact**: I love playing the guitar in my free time.
+I am very excited to learn more about software maintenance, it's practices and evolution.
 
 - **Course expectations**: To gain hands-on experience in
-maintaining and evolving software.
+maintaining and evolving softwares.
+
+- **Fun fact**: 2 truths and 1 lie: 1. I was in a band 2. I am lactose intolerant 3. I haven't opened linkedin in a year (they are all true)
 
 ![My Image](image.jpg) <!-- Link to the uploaded image -->
 

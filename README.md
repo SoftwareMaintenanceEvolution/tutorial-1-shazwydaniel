@@ -8,9 +8,9 @@ I am very excited to learn more about software maintenance, it's practices and e
 - **Course expectations**: To gain hands-on experience in
 maintaining and evolving softwares.
 
-- **Fun fact**: 2 truths and 1 lie: 1. I was in a band 2. I am lactose intolerant 3. I haven't opened linkedin in a year (they are all true)
+- **2 truths and 1 lie**: 1. I was in a band 2. I am lactose intolerant 3. I haven't opened linkedin in a year (they are all true)
 
-![My Image](image.jpg) <!-- Link to the uploaded image -->
+![My Image](Shazwy Picture.JPEG) <!-- Link to the uploaded image -->
 
 ## GitHub Profile
 You can view my personalized GitHub profile

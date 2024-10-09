@@ -10,8 +10,9 @@ maintaining and evolving softwares.
 
 - **2 truths and 1 lie**: 1. I was in a band 2. I am lactose intolerant 3. I haven't opened linkedin in a year (they are all true).
 
-My Image -> [Here](https://github.com/SoftwareMaintenanceEvolution/tutorial-1-shazwydaniel/blob/4ba40461f3886d898ee0f50d3c805385e79574d0/Shazwy%20Picture.JPEG). <!-- Link to the uploaded image -->
+## My Image
+[Here](https://github.com/SoftwareMaintenanceEvolution/tutorial-1-shazwydaniel/blob/4ba40461f3886d898ee0f50d3c805385e79574d0/Shazwy%20Picture.JPEG). <!-- Link to the uploaded image -->
 
 ## GitHub Profile
 You can view my GitHub profile
-[here](https://github.com/shazwydaniel).
+[Here](https://github.com/shazwydaniel).
